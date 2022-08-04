@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <vector>
 #include <algorithm>
 #include <cstdbool>
@@ -33,4 +33,5 @@ int main()
 	cin >> n;
 	cout << solution(n) << '\n';
 	return 0;
-}	//DP[n] = DP[n-2] * 3 + sum(DP[n-i]*2) + 2*3 + 2 점화식*/
+}	//DP[n] = DP[n-2] * 3 + sum(DP[n-i]*2) + 2*3 + 2 점화식
+///fasdfsadfsadfsdafsafsadfsdafsad
