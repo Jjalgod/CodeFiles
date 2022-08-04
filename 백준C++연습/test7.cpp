@@ -34,4 +34,4 @@ int main()
 	cout << solution(n) << '\n';
 	return 0;
 }	//DP[n] = DP[n-2] * 3 + sum(DP[n-i]*2) + 2*3 + 2 繊鉢縦
-///けいしぉいしけぉいけしぉasdfsadfsadfsafdsdaf
+///けいしぉいしけぉいけしぉasdfsadfsadfsafdsdafいしけかいしかいぉし
